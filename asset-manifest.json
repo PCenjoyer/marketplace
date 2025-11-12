@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.799ef97f.css",
-    "main.js": "/react-gh-pages/static/js/main.512e675e.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.799ef97f.css.map": "/react-gh-pages/static/css/main.799ef97f.css.map",
-    "main.512e675e.js.map": "/react-gh-pages/static/js/main.512e675e.js.map"
+    "main.css": "/marketplace/static/css/main.799ef97f.css",
+    "main.js": "/marketplace/static/js/main.7718e2ba.js",
+    "index.html": "/marketplace/index.html",
+    "main.799ef97f.css.map": "/marketplace/static/css/main.799ef97f.css.map",
+    "main.7718e2ba.js.map": "/marketplace/static/js/main.7718e2ba.js.map"
   },
   "entrypoints": [
     "static/css/main.799ef97f.css",
-    "static/js/main.512e675e.js"
+    "static/js/main.7718e2ba.js"
   ]
 }
